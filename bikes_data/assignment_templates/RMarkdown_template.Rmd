@@ -1,0 +1,20 @@
+---
+title: "Bike sharing challenge"
+author: "Candidate name"
+date: "January 01, 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Data exploration
+
+# Modelling approach
+
+# Performance analysis
+
+# Conclusions
+
+# Potential improvements
